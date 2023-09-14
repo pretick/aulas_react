@@ -1,0 +1,11 @@
+.header {
+
+}
+
+.mobile .menu {
+    display: flex;
+    justify-content: space-between;
+
+    border: 1px solid #999;
+    padding: 1rem;
+}
