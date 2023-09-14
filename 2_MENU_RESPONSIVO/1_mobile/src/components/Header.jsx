@@ -12,7 +12,7 @@ function Header() {
 
                 <h1><Fire size={32} color="#c22b05" /></h1>
             </div>
-            <div className="options">
+            <div className={Styles.options}>
               <nav>
                 <a href="">Home</a>
                 <a href="">Resultados</a>
